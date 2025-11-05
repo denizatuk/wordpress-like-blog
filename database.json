@@ -1,0 +1,162 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Web Tasarımında Modern Trendler",
+      "content": "Web tasarımı dünyası sürekli olarak gelişiyor. Modern trendler, kullanıcı deneyimini ön planda tutan minimal ve işlevsel tasarımları öne çıkarıyor. Bu yazıda, 2024'ün en önemli web tasarım trendlerini inceleyeceğiz.\n\nMinimalist tasarım, gereksiz öğelerden arındırılmış, sade ve odaklanmış bir arayüz sunar. Bu yaklaşım, kullanıcıların dikkatini dağıtmadan önemli içeriğe odaklanmasını sağlar.\n\nKaranlık mod (Dark Mode), kullanıcı deneyimini artıran ve göz yorgunluğunu azaltan popüler bir özellik haline geldi. Modern web siteleri, kullanıcılara tercih seçeneği sunuyor.\n\nMikro etkileşimler, kullanıcı arayüzünde küçük animasyonlar ve geri bildirimler sağlayarak kullanıcı deneyimini geliştirir. Bu özellikler, sitenin daha interaktif ve profesyonel görünmesini sağlar.\n\nResponsive tasarım, mobil cihazların artan kullanımı nedeniyle artık bir seçenek değil, zorunluluk haline geldi. Modern web siteleri, tüm cihazlarda mükemmel görünüm sunmalıdır.",
+      "author": "Admin",
+      "category": "Tasarım",
+      "tags": [
+        "Web Tasarım",
+        "Trend",
+        "2024"
+      ],
+      "date": "2024-01-15",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "JavaScript ile Modern Web Geliştirme",
+      "content": "JavaScript, modern web geliştirmenin kalbi haline geldi. Framework'ler ve kütüphaneler sayesinde, daha önce mükemmel olmayan uygulamaları artık kolayca oluşturabiliyoruz.\n\nReact, Vue ve Angular gibi framework'ler, büyük ölçekli uygulamaların geliştirilmesini kolaylaştırıyor. Bu araçlar, component tabanlı mimari sayesinde kodun yeniden kullanılabilirliğini artırıyor.\n\nNode.js ile backend geliştirme de JavaScript'in popülerliğini artırdı. Artık hem frontend hem de backend geliştirme için aynı dili kullanabiliyoruz.",
+      "author": "Admin",
+      "category": "Geliştirme",
+      "tags": [
+        "JavaScript",
+        "Web Geliştirme"
+      ],
+      "date": "2024-01-12",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "SEO İçin En İyi Uygulamalar",
+      "content": "SEO, web sitenizin arama motorlarında görünürlüğünü artırmak için kritik öneme sahip. Bu yazıda, SEO için en önemli uygulamaları ve teknikleri paylaşacağız.\n\nAnahtar kelime araştırması, SEO stratejisinin temelini oluşturur. Doğru anahtar kelimeleri seçmek, hedef kitlenize ulaşmanızı sağlar.\n\nİçerik kalitesi, arama motorları için en önemli faktörlerden biridir. Orijinal, değerli ve güncel içerik, sitenizin sıralamasını artırır.\n\nTeknik SEO, site hızı, mobil uyumluluk ve güvenli bağlantı gibi faktörleri içerir. Bu unsurlar, kullanıcı deneyimini ve arama motoru sıralamasını etkiler.",
+      "author": "Admin",
+      "category": "SEO",
+      "tags": [
+        "SEO",
+        "Arama Motoru"
+      ],
+      "date": "2024-01-10",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "deneme",
+      "content": "deneme",
+      "author": "Admin",
+      "category": "Tasarım",
+      "tags": [
+        ""
+      ],
+      "date": "2025-11-05",
+      "published": true
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": "Ahmet Yılmaz",
+      "email": "ahmet@example.com",
+      "content": "Harika bir yazı! Modern trendleri takip etmek gerçekten önemli. Teşekkürler.",
+      "date": "2024-01-15",
+      "approved": true
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "author": "Ayşe Demir",
+      "email": "ayse@example.com",
+      "content": "Karanlık mod özelliği gerçekten çok kullanışlı. Kendi sitemde de eklemeyi düşünüyorum.",
+      "date": "2024-01-15",
+      "approved": true
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "author": "Mehmet Kaya",
+      "email": "mehmet@example.com",
+      "content": "Mikro etkileşimler hakkında daha detaylı bilgi verebilir misiniz?",
+      "date": "2024-01-16",
+      "approved": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tasarım",
+      "description": "Web tasarımı ile ilgili yazılar",
+      "slug": "tasarim"
+    },
+    {
+      "id": 2,
+      "name": "Geliştirme",
+      "description": "Web geliştirme ile ilgili yazılar",
+      "slug": "gelistirme"
+    },
+    {
+      "id": 3,
+      "name": "SEO",
+      "description": "SEO optimizasyonu ile ilgili yazılar",
+      "slug": "seo"
+    },
+    {
+      "id": 4,
+      "name": "Genel",
+      "description": "Genel konular",
+      "slug": "genel"
+    },
+    {
+      "id": 5,
+      "name": "Takım Elbise",
+      "description": "Moda ve stil ile ilgili yazılar",
+      "slug": "takim-elbise"
+    }
+  ],
+  "tags": [
+    "Web Tasarım",
+    "JavaScript",
+    "SEO",
+    "CSS",
+    "HTML",
+    "React",
+    "Vue",
+    "Node.js",
+    "Trend",
+    "2024",
+    "Arama Motoru",
+    "Web Geliştirme",
+    "eeeeeeee"
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.com",
+      "role": "Administrator",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "yazar",
+      "email": "yazar@example.com",
+      "role": "Editor",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "username": "kullanici",
+      "email": "kullanici@example.com",
+      "role": "Subscriber",
+      "status": "active"
+    }
+  ],
+  "settings": {
+    "siteTitle": "Benim Blogum",
+    "siteDescription": "Basit ve Modern Blog Sitesi",
+    "email": "info@example.com",
+    "timezone": "Istanbul (UTC+3)",
+    "maintenanceMode": false
+  }
+}
